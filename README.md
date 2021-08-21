@@ -3,6 +3,11 @@
 
 A react-native module that can listen on orientation changing of device, get current orientation, lock to preferred orientation. (cross-platform support)
 
+# NOTE:
+This project was just forked to update react version to support react 17 since package doesnt support react 17. I in no way claim this package as my own, it is solely the code of all the contributors of [React Native Orientation Locker](https://github.com/wonday/react-native-orientation-locker)
+
+A react-native module that can listen on orientation changing of device, get current orientation, lock to preferred orientation. (cross-platform support)
+
 ### Feature
 
 * lock screen orientation to PORTRAIT|LANDSCAPE-LEFT|PORTRAIT-UPSIDEDOWN|LANDSCAPE-RIGHT.
